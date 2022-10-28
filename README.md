@@ -1,10 +1,9 @@
 # Youtube Clone Frontend
 
-**NOTE: As of 10-06-2022 at 20:00 IST, I am archiving this repository. It was fun while it lasted**.
 
 Youtube clone using PERN stack (Postgres, Express, React, Node). 
 
-This is the frontend repository, built with React + Redux. If you are looking for the backend repository, [click here](https://github.com/manikandanraji/youtubeclone-backend)
+
 
 ## Core packages
 
@@ -85,15 +84,3 @@ For more detailed instructions, [click here](https://github.com/manikandanraji/y
 
 ![Search](screenshots/search_results.png)
 
-## My Clone Trilogy
-
-With this clone, I am finishing what I call 'my clone trilogy'. If you are interested, you can visit my other clones that are part of this trilogy
-
-1. Twitter
-
-   - [Frontend](https://github.com/manikandanraji/twitter-clone-frontend)
-   - [Backend](https://github.com/manikandanraji/twitter-clone-frontend)
-
-2. Instagram
-   - [Frontend](https://github.com/manikandanraji/instaclone-frontend)
-   - [Backend](https://github.com/manikandanraji/instaclone-backend)
